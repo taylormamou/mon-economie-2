@@ -1,0 +1,17 @@
+body{
+    background-image: url(realme-pad-2-blue-3840x2160-14312.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+body h1{
+    background-color: rgba(255, 255, 255, 0.541);
+    backdrop-filter: blur(10px);
+}
+
+menu p{
+    font-size: 20px;
+}

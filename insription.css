@@ -1,0 +1,17 @@
+body{
+    background-image: url(images\ \(2\).jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+fieldset{
+    text-align: center;
+}
+.formulaire{
+animation: color-change 4s infinite;
+
+}
+@keyframes color-change {
+    0% {color: skyblue;}
+    50% {color: greenyellow;}
+    100% {color: rgb(236, 52, 27);}
+}
